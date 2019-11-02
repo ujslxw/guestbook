@@ -1,4 +1,4 @@
-# kubernetes_guestbook
+# kubernetes_guestbook : https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
 
 # Launch a terminal window in the directory you downloaded the manifest files.
 # Apply the Redis Master Deployment from the redis-master-deployment.yaml file:
