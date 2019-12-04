@@ -30,6 +30,8 @@ The guestbook applications needs to communicate to the Redis master to write its
 # Query the list of Services to verify that the Redis Master Service is running:
 
   kubectl get service
+  
+  ![service](https://github.com/javahometech/kubernetes/blob/master/images/service.png)
 
 # The response should be similar to this:
 
